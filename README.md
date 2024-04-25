@@ -1,1 +1,1 @@
-# moveinsync_caseStudy
+# intelligent floor plan management system
